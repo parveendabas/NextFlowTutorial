@@ -1,0 +1,6 @@
+2021-10-25 12:54:42	1.8s	pedantic_bartik	OK	ce9f9124d30d481c81b8387a2754605e	c5cf2359-181d-47dd-b145-419a87ae173f	nextflow run main.nf
+2021-10-25 12:55:18	1.9s	awesome_thompson	OK	96b810926d3cecba18b89a5a2657fd21	81556806-751e-40eb-8c94-154c6c743be0	nextflow run main.nf
+2021-10-25 12:56:16	1.8s	elegant_jennings	OK	0c0d9cfaf8840739b3dd899fb5dec83c	19a590d3-d7c3-4a2d-987e-b8099e45acf5	nextflow run main.nf
+2021-10-25 12:57:10	1.4s	jolly_jepsen	OK	0c0d9cfaf8840739b3dd899fb5dec83c	6bb7871e-241b-4dea-8d83-4a9b6eff4592	nextflow run main.nf --query newQuery.fasta
+2021-10-25 12:57:34	1.1s	small_hilbert	OK	0c0d9cfaf8840739b3dd899fb5dec83c	405dd4c0-2890-45bd-a62a-2d7ba752d298	nextflow run main.nf --blastdb NewBlastDB
+2021-10-25 12:57:49	1.6s	agitated_mahavira	OK	0c0d9cfaf8840739b3dd899fb5dec83c	e113cf31-55e3-4910-872c-c59eb6809c6d	nextflow run main.nf --query changethistext
